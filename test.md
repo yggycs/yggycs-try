@@ -1,2 +1,1 @@
-**test*
-mian
+So the cat was stolen.
